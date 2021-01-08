@@ -1,0 +1,113 @@
+results=  Object {
+    "restaurants": Array [
+      Object {
+        "restaurant": Object {
+          "R": Object {
+            "has_menu_status": Object {
+              "delivery": true,
+              "takeaway": -1,
+            },
+            "is_grocery_store": false,
+            "res_id": 19242903,
+          },
+          "all_reviews": Object {
+            "reviews": Array [
+              Object {
+                "review": Array [],
+              },
+              Object {
+                "review": Array [],
+              },
+              Object {
+                "review": Array [],
+              },
+              Object {
+                "review": Array [],
+              },
+              Object {
+                "review": Array [],
+              },
+            ],
+          },
+          "all_reviews_count": 22,
+          "apikey": "676447ec4d00850d6dd75a3ca41f1aa9",
+          "average_cost_for_two": 250,
+          "book_again_url": "",
+          "book_form_web_view_url": "",
+          "cuisines": "Ice Cream, Desserts",
+          "currency": "Rs.",
+          "deeplink": "zomato://restaurant/19242903",
+          "establishment": Array [
+            "Dessert Parlour",
+          ],
+          "establishment_types": Array [],
+          "events_url": "https://www.zomato.com/vijayawada/ixcream-auto-nagar/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "featured_image": "",
+          "has_online_delivery": 1,
+          "has_table_booking": 0,
+          "highlights": Array [
+            "Takeaway Available",
+            "Seating Available",
+            "Cash",
+            "Delivery",
+            "Indoor Seating",
+            "Desserts and Bakes",
+          ],
+          "id": "19242903",
+          "include_bogo_offers": true,
+          "is_book_form_web_view": 0,
+          "is_delivering_now": 1,
+          "is_table_reservation_supported": 0,
+          "is_zomato_book_res": 0,
+          "location": Object {
+            "address": "D 64-9-1, Beside Eenadu Office, MG Road, Patamata, Auto Nagar, Vijayawada",
+            "city": "Vijayawada",
+            "city_id": 11300,
+            "country_id": 1,
+            "latitude": "16.4968081281",
+            "locality": "Auto Nagar",
+            "locality_verbose": "Auto Nagar, Vijayawada",
+            "longitude": "80.6566013554",
+            "zipcode": "520010",
+          },
+          "medio_provider": false,
+          "menu_url": "https://www.zomato.com/vijayawada/ixcream-auto-nagar/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+          "mezzo_provider": "OTHER",
+          "name": "IXCream",
+          "offers": Array [],
+          "opentable_support": 0,
+          "order_deeplink": "",
+          "order_url": "https://www.zomato.com/vijayawada/ixcream-auto-nagar/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "phone_numbers": "+91 9030373222",
+          "photo_count": 8,
+          "photos_url": "https://www.zomato.com/vijayawada/ixcream-auto-nagar/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+          "price_range": 1,
+          "store_type": "",
+          "switch_to_order_menu": 0,
+          "thumb": "",
+          "timings": "12:01am – 2am, 12noon – 12midnight (Mon-Sun)",
+          "url": "https://www.zomato.com/vijayawada/ixcream-auto-nagar?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+          "user_rating": Object {
+            "aggregate_rating": "3.8",
+            "rating_color": "9ACD32",
+            "rating_obj": Object {
+              "bg_color": Object {
+                "tint": "600",
+                "type": "lime",
+              },
+              "title": Object {
+                "text": "3.8",
+              },
+            },
+            "rating_text": "Good",
+            "votes": 109,
+          },
+        },
+      },
+    ],
+    "results_found": 81,
+    "results_shown": 1,
+    "results_start": 0,
+  }
+  results=  Object {
+  
