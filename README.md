@@ -3,6 +3,8 @@ This is a react native complete app that will run on android and iphone(iOS)
 
 It displays a search bar and restaurants. you can search for restaurant related things like, name, cuisine, dishes, etc
 
+Screenshots are there to see how the app works. 
+
 it will also display the rating, no of reviews and images of the restaurant.
 
 It uses The Zomato Api, so which ever country Zomato exists, it will give relevant results. 
