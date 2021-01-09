@@ -26,7 +26,7 @@ if npm command is not running then there is some issues that you would need to f
 
 Have patience. it might take 2days to a week to finally fix npm, react native and the code to run. I repeat, Have patience and keep at it. 
 
-Feel free to reach me ptpmashish@gmail.com or whatsapp 7893332334 if you are facing any issues. 
+Feel free to reach me ptpmashish@gmail.com or whatsapp +917893332334 if you are facing any issues. 
 
 Happy coding! 
 
